@@ -16,8 +16,13 @@
         ],
         "x": 1251,
         "y": 807
-}
-],
+},
+{
+        "name": "Ecuador TARDIS",
+        "sources": ["https://raw.githubusercontent.com/asl97/Template-Editor/main/Ecuador_TARDIS.png"],
+        "x": 650,
+        "y": 117
+}],
     "whitelist": [],
     "blacklist": []
 }
