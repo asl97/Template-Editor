@@ -1,0 +1,14 @@
+{
+    "contact": "r/placeTARDIS Alliance recreation of r/sleeptoken",
+    "templates": [
+{
+        "name": "r/sleeptoken",
+        "sources": [
+            "https://raw.githubusercontent.com/asl97/Template-Editor/master/sleeptoken.png"
+        ],
+        "x": 448,
+        "y": 1290
+}],
+    "whitelist": [],
+    "blacklist": []
+}
