@@ -22,6 +22,11 @@
         "sources": ["https://raw.githubusercontent.com/asl97/Template-Editor/main/Ecuador_TARDIS.png"],
         "x": 650,
         "y": 117
+},{
+        "name": "TARDIS4",
+        "sources": ["https://raw.githubusercontent.com/asl97/Template-Editor/main/TARDIS4.png"],
+        "x": 479,
+        "y": 1325
 }],
     "whitelist": [],
     "blacklist": []
