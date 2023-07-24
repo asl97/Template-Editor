@@ -37,6 +37,10 @@
         {
             "name": "JTLG Chief",
             "url": "https://uploads.marens101.com/s/2023/07/jetlag_place_template_no_allies.json"
+        },
+        {
+            "name": "r/placeFR",
+            "url": "https://sayrix.github.io/PlaceFR/overlay.json"
         }
     ],
     "blacklist": []
