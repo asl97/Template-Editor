@@ -6,7 +6,7 @@
         "sources": [
             "https://raw.githubusercontent.com/asl97/Template-Editor/master/placeTARDIS_Alliance.png"
         ],
-        "x": 1251,
+        "x": 1751,
         "y": 838
 },
 {
@@ -22,7 +22,8 @@
         "sources": ["https://raw.githubusercontent.com/asl97/Template-Editor/main/Ecuador_TARDIS.png"],
         "x": 650,
         "y": 117
-},{
+},
+{
         "name": "TARDIS4",
         "sources": ["https://raw.githubusercontent.com/asl97/Template-Editor/main/TARDIS4.png"],
         "x": 479,
@@ -35,7 +36,7 @@
         },
         {
             "name": "JTLG Chief",
-            "url": "I'd probably prefer https://uploads.marens101.com/s/2023/07/jetlag_place_template_no_allies.json"
+            "url": "https://uploads.marens101.com/s/2023/07/jetlag_place_template_no_allies.json"
         }
     ],
     "blacklist": []
