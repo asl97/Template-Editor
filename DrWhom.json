@@ -14,19 +14,19 @@
         "sources": [
             "https://raw.githubusercontent.com/asl97/Template-Editor/main/DalekSpez.png"
         ],
-        "x": 1251,
+        "x": 1751,
         "y": 807
 },
 {
         "name": "Ecuador TARDIS",
         "sources": ["https://raw.githubusercontent.com/asl97/Template-Editor/main/Ecuador_TARDIS.png"],
-        "x": 650,
+        "x": 1150,
         "y": 117
 },
 {
         "name": "TARDIS4",
         "sources": ["https://raw.githubusercontent.com/asl97/Template-Editor/main/TARDIS4.png"],
-        "x": 479,
+        "x": 979,
         "y": 1325
 }],
     "whitelist": [
