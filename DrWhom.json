@@ -32,6 +32,11 @@
         {
             "name": "r/placeTARDIS Alliance recreation of r/sleeptoken",
             "url": "https://raw.githubusercontent.com/asl97/Template-Editor/main/sleeptoken.json"
-        }],
+        },
+        {
+            "name": "JTLG Chief",
+            "url": "https://place-jltg.dbots.net/template/osuplace"
+        }
+    ],
     "blacklist": []
 }
