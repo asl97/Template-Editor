@@ -28,6 +28,12 @@
         "sources": ["https://raw.githubusercontent.com/asl97/Template-Editor/main/TARDIS4.png"],
         "x": 979,
         "y": 1325
+},
+{
+        "name": "Doctor Who FR",
+        "sources": ["https://raw.githubusercontent.com/asl97/Template-Editor/placefr-alliance/placeFR%20Clockwork%20Droid%20and%20Tiny%20Tardis.png"],
+        "x": 2706,
+        "y": 253
 }],
     "whitelist": [
         {
