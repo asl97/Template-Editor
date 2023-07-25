@@ -1,3 +1,13 @@
+# End of 2022 r/Place
+Thank you all for joining!
+
+Due to the rush nature of this and to avoid breaking any json or whatever, all 2022 will remain on the root of the repo.
+
+Future event of this will be place in its own folder.
+
+See you all next time!
+
+
 # Template-Editor
 Template Editor Instructions and home of the r/placeTARDIS alliance
 
