@@ -9,6 +9,7 @@ See you all next time!
 
 
 # Template-Editor
+![Screenshot of Editor](https://raw.githubusercontent.com/asl97/Template-Editor/master/Files%20for%20Repo/Screenshot%20of%20Editor.png)
 Template Editor Instructions and home of the r/placeTARDIS alliance
 
 Skip setup if you done it before
