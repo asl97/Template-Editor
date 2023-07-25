@@ -31,7 +31,7 @@
 },
 {
         "name": "Doctor Who FR",
-        "sources": ["https://raw.githubusercontent.com/asl97/Template-Editor/placefr-alliance-2/placeFR_Alliance.png"],
+        "sources": ["https://raw.githubusercontent.com/asl97/Template-Editor/main/placeFR_Alliance.png"],
         "x": 1073,
         "y": 1311
 }],
