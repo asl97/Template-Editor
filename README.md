@@ -1,7 +1,7 @@
 # End of 2023 r/Place
 Thank you all for joining!
 
-Due to the rush nature of this and to avoid breaking any json or whatever, all 2022 will remain on the root of the repo.
+Due to the rush nature of this and to avoid breaking any json or whatever, all 2023 will remain on the root of the repo.
 
 Future event of this will be place in its own folder.
 
