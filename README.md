@@ -7,6 +7,8 @@ Future event of this will be place in its own folder.
 
 See you all next time!
 
+https://2023.place-atlas.stefanocoding.me/#322//254/-141/14.842
+https://www.reddit.com/r/place/?cx=267&cy=-156&px=30&ts=1690308000999&screenmode=fullscreen
 
 # Template-Editor
 ![Screenshot of Editor](https://raw.githubusercontent.com/asl97/Template-Editor/master/Files%20for%20Repo/Screenshot%20of%20Editor.png)
