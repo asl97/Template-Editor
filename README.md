@@ -29,7 +29,9 @@ step 3: Search for Luna Paint and click install
 
 ### Creating new image:
 
-step 4: press Ctrl+Shift+P and click 'Luna > File: New Image', enter width and length
+~~step 4: press Ctrl+Shift+P and click 'Luna > File: New Image', enter width and length~~
+
+step 4: press Ctrl+P and type '>newimage' and click 'Luna > File: New Image', enter width and length
 
 ### Editing:
 
@@ -39,6 +41,6 @@ step 6: Edit your image
 
 ### Submitting change:
 
-Step 7: Click source control, the one that looks like three circle with lines
+Step 7: Click source control, the one that looks like three circle with lines connecting them
 
 Step 8: Enter a message for your change and press Ctrl+Enter or click the button
