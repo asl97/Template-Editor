@@ -1,0 +1,3 @@
+[submodule "Wplace/tiles"]
+	path = Wplace/tiles
+	url = https://github.com/asl97/Wplace-Tiles-Github-Action-Downloader
